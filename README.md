@@ -1,3 +1,3 @@
 # TestGitCommands
 
-Adding feeature1
+Adding feeature2 here
